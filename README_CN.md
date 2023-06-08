@@ -57,7 +57,7 @@
 本项目提供有限的权限控制功能，请在 Vercel 项目控制面板的环境变量页增加名为 `CODE` 的环境变量，值为用英文逗号分隔的自定义密码：
 
 ```
-code1,code2,code3
+136123,1366
 ```
 
 增加或修改该环境变量后，请**重新部署**项目使改动生效。
@@ -78,7 +78,7 @@ OpanAI 密钥，你在 openai 账户页面申请的 api key。
 
 ### `BASE_URL` （可选）
 
-> Default: `https://api.openai.com`
+> Default: `https://api.closeai-asia.com/v1`
 
 > Examples: `http://your-openai-proxy.com`
 
