@@ -80,7 +80,7 @@ OpanAI 密钥，你在 openai 账户页面申请的 api key。
 
 > Default: `https://api.closeai-asia.com/v1`
 
-> Examples: `http://your-openai-proxy.com`
+> Examples: `https://api.closeai-asia.com/v1`
 
 OpenAI 接口代理 URL，如果你手动配置了 openai 接口代理，请填写此选项。
 
